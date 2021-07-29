@@ -2,13 +2,13 @@ import os
 import logging
 from logging.handlers import RotatingFileHandler
 
-#Bot token @Botfather
+#Bot token 
 TG_BOT_TOKEN = os.environ.get("TG_BOT_TOKEN", "")
 
-#Your API ID from @MT_MyTelegramOrg_Bot
+#Your API ID 
 APP_ID = int(os.environ.get("APP_ID", ""))
 
-#Your API Hash from @MT_MyTelegramOrg_Bot
+#Your API Hash from 
 API_HASH = os.environ.get("API_HASH", "")
 
 #Your db channel Id
