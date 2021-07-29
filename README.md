@@ -4,13 +4,13 @@
   <a href="https://www.python.org">
     <img src="http://ForTheBadge.com/images/badges/made-with-python.svg" width ="250">
   </a>
-  <a href="https://t.me/Mo_Tech_YT">
+  <a href="https://t.me/onlymovie76">
     <img src="https://github.com/Mo_Tech_YT/PyrogramGenStr/blob/main/resources/madebymotech-badge.svg" width="250">
   </a><br>
-  <a href="https://t.me/Mo_Tech_YT">
+  <a href="https://t.me/onlyseries76">
     &nbsp;<img src="https://img.shields.io/badge/MoTech-Channel-blue?style=flat-square&logo=telegram" width="130" height="18">&nbsp;
   </a>
-  <a href="https://t.me/Mo_Tech_Group">
+  <a href="https://t.me/onlyseries76">
     &nbsp;<img src="https://img.shields.io/badge/MoTech-Group-blue?style=flat-square&logo=telegram" width="130" height="18">&nbsp;
   </a>
   <br>
@@ -43,7 +43,7 @@
 ##
 ### Installation
 #### Deploy on Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DarkAngel1234-tech/Multi-Files-Share)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https:https://github.com/mahinwizard4444/ONLYMOVIE76FILESHARINGBOT)
 <a href="https://youtu.be/LCrkRTMkmzE">
   <img src="https://img.shields.io/badge/How%20to-Deploy-red?logo=youtube" width="147">
 </a><br>
